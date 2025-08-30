@@ -1,0 +1,14 @@
+> 以:
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <title>商品展示</title>
+</head>
+<body>
+  <h1>商品資訊展示</h1>
+  <p>規格：10g x 20pcs x 12box</p>
+  <p>這是示範的圖片：</p>
+  <img src="product.jpg" alt="商品圖片" width="300">
+</body>
+</html>
